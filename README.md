@@ -84,18 +84,6 @@ const skills = {
 
 ---
 
-### 📈 Contributions 2025
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/ShalomThz" alt="GitHub Contribution Chart" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShalomThz&custom_title=Contribution%20Graph%202025&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:tjoelshalom@gmail.com)
