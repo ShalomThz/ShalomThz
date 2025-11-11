@@ -84,15 +84,13 @@ const skills = {
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contributions 2025
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShalomThz&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub Stats" />
+<img src="https://ghchart.rshah.org/58a6ff/ShalomThz" alt="GitHub Contribution Chart" />
 
-<img src="https://streak-stats.demolab.com/?user=ShalomThz&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&dates=8b949e" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomThz&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShalomThz&custom_title=Contribution%20Graph%202025&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
