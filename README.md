@@ -12,11 +12,14 @@
 
 ```javascript
 const skills = {
-  languages: ['JavaScript', 'TypeScript'],
-  frontend: ['React', 'Next.js', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express'],
-  databases: ['MongoDB', 'PostgreSQL'],
-  tools: ['Git', 'Docker', 'VS Code']
+  languages: ['JavaScript', 'PHP', 'Java'],
+  frameworks: ['Laravel', 'Filament', 'Express', 'React'],
+  databases: {
+    sql: ['PostgreSQL', 'MySQL'],
+    noSQL: ['MongoDB']
+  },
+  tools: ['Git', 'Tailwind CSS', 'Docker', 'Google Cloud', 'OpenAI API', 'Linux'],
+  methodologies: ['SCRUM', 'XP']
 };
 ```
 
@@ -36,10 +39,38 @@ const skills = {
 
 ---
 
-### 🐍 Contribution Snake
+### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://github.com/ShalomThz/ShalomThz/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+#### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=filament&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+#### Methodologies
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![XP](https://img.shields.io/badge/XP-0052CC?style=flat&logo=xp&logoColor=white)
+
 </div>
 
 ---
