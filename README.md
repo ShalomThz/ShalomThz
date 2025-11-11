@@ -25,51 +25,74 @@ const skills = {
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Skills & Technologies
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShalomThz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+**Languages**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShalomThz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" />
+<img src="https://skillicons.dev/icons?i=js,php,java" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShalomThz&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+`JavaScript` `PHP` `Java`
 
-</div>
+</td>
+<td align="center" width="33%">
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=laravel,express,react" />
+
+`Laravel` `Filament` `Express` `React`
+
+</td>
+<td align="center" width="33%">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+`PostgreSQL` `MySQL` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" colspan="2">
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,tailwind,docker,gcp,linux" />
+
+`Git` `Tailwind CSS` `Docker` `Google Cloud` `OpenAI API` `Linux`
+
+</td>
+<td align="center" width="50%">
+
+**Methodologies**
+
+<br>
+
+`SCRUM` `XP`
+
+<br>
+<br>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Skills & Tools
+### 📊 GitHub Stats
 
 <div align="center">
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=ShalomThz&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub Stats" />
 
-#### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=filament&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<img src="https://streak-stats.demolab.com/?user=ShalomThz&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&dates=8b949e" alt="GitHub Streak" />
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-#### Methodologies
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-![XP](https://img.shields.io/badge/XP-0052CC?style=flat&logo=xp&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomThz&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
 </div>
 
